@@ -12,6 +12,7 @@ const userRoute=require('./routes/users')
 const postRoute=require('./routes/posts')
 const commentRoute=require('./routes/comment')
 
+// Testing Git commit
 //database
 const connectDB=async()=>{
     try{
